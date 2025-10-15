@@ -1,6 +1,6 @@
 # Term Deposit Classification (Machine Learning Coursework)
 
-A university coursework project focused on predicting whether a client would subscribe to a term deposit based on financial and demographic factors. The project explores supervised and unsupervised machine learning models to compare performance and interpret feature importance.
+A university coursework project focused on predicting whether a client would subscribe to a term deposit based on financial and demographic factors. The project explores supervised and unsupervised machine learning models to compare performance and interpret the significance of each feature
 
 ## Tech Stack
 - R
